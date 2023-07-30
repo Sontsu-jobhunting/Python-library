@@ -3,3 +3,5 @@ from itertools import accumulate as accu
 # accu(hoge)
 
 #こんにちわ
+
+#こんばんわ
